@@ -1,0 +1,9 @@
+// hoverable: true,
+// hover_callback: function (atom, viewer) {
+//   console.log("hover");
+//   console.log(atom);
+// },
+// unhover_callback: function (atom, viewer) {
+//   console.log("unhover");
+//   console.log(atom);
+// },
